@@ -1,4 +1,4 @@
 #!/bin/bash
 #good ol' bin bash
 
-python3 ~/ztui.py
+python3 /bin/ztui.py
