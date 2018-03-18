@@ -2,6 +2,9 @@
 A console UI for people who selfbuild. May be used for linux and windows
 (This is due to the fact self-building does not include the UI)
 
+# Using
+After it is installed type **zt** to run.
+
 # Installation
 Really easy, clone and run the install script as admin/root.
 
