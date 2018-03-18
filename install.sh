@@ -1,4 +1,4 @@
 chmod +x zt
 cp zt /bin/zt
-cp zt.py /bin/zt.py
+cp ztui.py /bin/ztui.py
 echo DONE
