@@ -1,1 +1,1 @@
-python3 C:\zt.py
+python3 C:\ztui.py
